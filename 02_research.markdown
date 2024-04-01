@@ -11,8 +11,7 @@ I am interested in exploring Public Policy and Politics, Sustainable Rural Livel
 
 ### Ongoing
 ---
-1) **[Enhancing Safe Drinking Water Security and Climate Resilience Through Rainwater Harvesting](https://bigd.bracu.ac.bd/study/enhancing-safe-drinking-water-security-and-climate-resilience-through-rainwater-harvesting/)
-{:target="_blank"}**
+1) **[Enhancing Safe Drinking Water Security and Climate Resilience Through Rainwater Harvesting](https://bigd.bracu.ac.bd/study/enhancing-safe-drinking-water-security-and-climate-resilience-through-rainwater-harvesting/){:target="_blank"}**
 <details>
   <summary><kbd>Context</kbd></summary>
   <table><tr><td>Coastal Bangladesh grapples with the severe impact of freshwater salinization, threatening the well-being of over 35 million individuals. This project seeks to combat the pressing issue of safe drinking water scarcity by leveraging rainwater harvesting solutions, thereby enhancing community health outcomes while addressing climate-induced water challenges in Mongla Upazilla.</td></tr></table>
@@ -54,7 +53,7 @@ The study is relevant to SDG 8 (decent work and economic growth) and SDG 16 (cli
 
 - [Presented the research findings](https://thedocs.worldbank.org/en/doc/43cd656813be0d42958698b6f2699ada-0310022023/related/Md-Mohsin-Bricks-to-Blocks.pdf){:target="_blank"} at [The 12th South Asia Economic Policy Network Conference on Green Growth in South Asia](https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3:~:text=Paper%20VI%3A-,bricks%20to%20blocks,-%3A%20An%20exploratory%20study){:target="_blank"} | [(Archive)](https://web.archive.org/web/20240205150527/https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3){:target="_blank"}
 
-> [Back to top](#top)[:arrow_up:](#top)
+> [Back to top](#top){: .button}
 
 
 <!--
