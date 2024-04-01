@@ -24,7 +24,8 @@ I am interested in exploring Public Policy and Politics, Sustainable Rural Livel
   <summary><kbd>Methodology</kbd></summary>
 <table><tr><td>This study assesses water security and climate resilience in Mongla Upazila with a mixed-method approach. The sample size of the quantitative survey is 1002 households from Mongla and Morrelganj Upazilla. It employs a quasi-experimental method for impact evaluation of the project. The project’s baseline assessment was conducted in 2022, and the subsequent end-line evaluation is scheduled for 2024, spanning a two-year period.</td></tr></table>
 </details>  
-  </br>
+
+
 2) **[Enhancing Economic Recovery Capacity of COVID-19-Affected Climate-Vulnerable Farmers Engaging in Dairy, Crop, and Vegetable Farming](https://bigd.bracu.ac.bd/study/enhancing-economic-recovery-capacity-of-covid-19-affected-climate-vulnerable-farmers-engaging-in-dairy-crop-and-vegetable-farming/){:target="_blank"}**
 <details>
   <summary><kbd>Context</kbd></summary>
