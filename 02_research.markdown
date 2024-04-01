@@ -23,7 +23,7 @@ I am interested in exploring Public Policy and Politics, Sustainable Rural Livel
   <details>
   <summary><kbd>Methodology</kbd></summary>
 <table><tr><td>This study assesses water security and climate resilience in Mongla Upazila with a mixed-method approach. The sample size of the quantitative survey is 1002 households from Mongla and Morrelganj Upazilla. It employs a quasi-experimental method for impact evaluation of the project. The project’s baseline assessment was conducted in 2022, and the subsequent end-line evaluation is scheduled for 2024, spanning a two-year period.</td></tr></table>
-</details>
+</details>  
 
 2) **[Enhancing Economic Recovery Capacity of COVID-19-Affected Climate-Vulnerable Farmers Engaging in Dairy, Crop, and Vegetable Farming](https://bigd.bracu.ac.bd/study/enhancing-economic-recovery-capacity-of-covid-19-affected-climate-vulnerable-farmers-engaging-in-dairy-crop-and-vegetable-farming/){:target="_blank"}**
 <details>
@@ -51,9 +51,9 @@ The study is relevant to SDG 8 (decent work and economic growth) and SDG 16 (cli
 
 - I provided research assistance to the PIs for literature review, instrument development, quantitative data analysis, documentation, conducting key informant interviews, transcribing, coding, and thematic analysis of qualitative data.
 
-- [Presented the research findings](https://thedocs.worldbank.org/en/doc/43cd656813be0d42958698b6f2699ada-0310022023/related/Md-Mohsin-Bricks-to-Blocks.pdf){:target="_blank"} at [The 12th South Asia Economic Policy Network Conference on Green Growth in South Asia](https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3:~:text=Paper%20VI%3A-,bricks%20to%20blocks,-%3A%20An%20exploratory%20study){:target="_blank"} | [(Archive)](https://web.archive.org/web/20240205150527/https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3){:target="_blank"}
+- [Presented the research findings](https://thedocs.worldbank.org/en/doc/43cd656813be0d42958698b6f2699ada-0310022023/related/Md-Mohsin-Bricks-to-Blocks.pdf){:target="_blank"} at [The 12th South Asia Economic Policy Network Conference on Green Growth in South Asia](https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3:~:text=Paper%20VI%3A-,bricks%20to%20blocks,-%3A%20An%20exploratory%20study){:target="_blank"} [(Archive)](https://web.archive.org/web/20240205150527/https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3){:target="_blank"}
 
-> [Back to top](#top){: .button}
+[Back to top](#top){: .button}
 
 
 <!--
