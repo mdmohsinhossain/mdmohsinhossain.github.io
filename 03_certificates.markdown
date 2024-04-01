@@ -9,7 +9,8 @@ permalink: /certificates/
 
 <hr style="border:.25px solid grey">
 
-### Completed MOOCs...
+### Completed MOOCs
+---
 
 - **Introduction to Sustainability by University of Illinois at Urbana-Champaign on Coursera.** \
 [Certificate earned on May 24, 2020.](https://www.coursera.org/verify/ECP8LFN77Y2J){:target="_blank"}.
@@ -27,7 +28,8 @@ Provides an understanding of the key challenges and pathways to sustainable deve
 
 <hr style="border:.25px solid grey">
 
-###  Journalism Related...
+###  Journalism Related
+---
 
 - **Become a Journalist: Report the News!** by Michigan State University on Coursera. [Certificate earned on September 8, 2020.](https://coursera.org/verify/specialization/BDCJDL24YX5G){:target="_blank"}
 
