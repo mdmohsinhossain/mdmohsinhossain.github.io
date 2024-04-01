@@ -16,5 +16,3 @@ Before this role, I was a [Trainee Research Associate](https://archive.ph/SlMAC
 
 My areas of interest are diverse and include exploring  Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration. Additionally, I am keen on acquiring skills related to fact-checking and promoting digital literacy.
 
-If you prefer, you can call me [Mohsin](https://ipa-reader.xyz/?text=mohsin&voice=Ewa){:target="_blank"}.
-
