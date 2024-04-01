@@ -33,7 +33,7 @@ I am interested in exploring Public Policy and Politics, Sustainable Rural Livel
   <details>
   <summary><kbd>Objective</kbd></summary>
   <table><tr><td>The key objective of the project is to improve the condition of the climate vulnerable farmers stricken by COVID-19 through supporting them with resources, cultivating adaptive farming skills and business strategies with market linkages. This ought to help them with a climate resilient economic recovery and establishing a network on a local level for sustainable trading practices.     
-</br>
+
 The study is relevant to SDG 8 (decent work and economic growth) and SDG 16 (climate action) specially through climate change vulnerabilities and disaster risk reduction.</td></tr></table>
   </details>
   <details>
