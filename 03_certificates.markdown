@@ -9,7 +9,7 @@ permalink: /certificates/
 
 <hr style="border:.25px solid grey">
 
-### Completed MOOCs
+### Completed MOOCs...
 
 - **Introduction to Sustainability by University of Illinois at Urbana-Champaign on Coursera.** \
 [Certificate earned on May 24, 2020.](https://www.coursera.org/verify/ECP8LFN77Y2J){:target="_blank"}.
@@ -23,11 +23,11 @@ Provides an understanding of the key challenges and pathways to sustainable deve
 
 - **Greening the Economy: Sustainable Cities** by Lund University on Coursera. [Certificate earned on April 23, 2020.](https://www.coursera.org/verify/VYQD82KMCJNU){:target="_blank"}.
 
-- **Sustainable Development in the 21st Century with Ban Ki-moon** by Yonsei University on Coursera. [Certificate earned on September 7, 2020.] (https://www.coursera.org/verify/VF9QHFMWQD9J){:target="_blank"}.
+- **Sustainable Development in the 21st Century with Ban Ki-moon** by Yonsei University on Coursera. [Certificate earned on September 7, 2020.](https://www.coursera.org/verify/VF9QHFMWQD9J){:target="_blank"}.
 
 <hr style="border:.25px solid grey">
 
-###  Journalism Related
+###  Journalism Related...
 
 - **Become a Journalist: Report the News!** by Michigan State University on Coursera. [Certificate earned on September 8, 2020.](https://coursera.org/verify/specialization/BDCJDL24YX5G){:target="_blank"}
 
@@ -37,7 +37,7 @@ Provides an understanding of the key challenges and pathways to sustainable deve
 
 - **The Online Training: Introduction to Digital Journalism** by Reuters. [Certificate earned on May 28, 2021.]( https://reutersdigitaljournalism.com/course_completed_certificate/30042.html?l=en){:target="_blank"}
 
-- **English for Journalism** by the American English E-Teacher Program on Canvas Network. [Certificate earned on Oct 5, 2020.]( https://aee-teacher.badgr.com/public/assertions/GVmkXW_qRluBA3FelnZXwQ)
+- **English for Journalism** by the American English E-Teacher Program on Canvas Network. [Certificate earned on Oct 5, 2020.]( https://aee-teacher.badgr.com/public/assertions/GVmkXW_qRluBA3FelnZXwQ){:target="_blank"}
 
 <!--
 - **Course Name** \
