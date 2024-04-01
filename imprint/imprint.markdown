@@ -3,23 +3,15 @@ layout: page
 permalink: /imprint/
 ---
 
-The initial website theme is based on *[Academic](https://github.com/gaalcaras/academic){:target="_blank"}* by [Gabriel Alcaras](https://gaalcaras.com/en/){:target="_blank"}. I have implemented a number of adjustments that you can find in my [GitHub repository](https://github.com/lukaslehner/lukaslehner.github.io){:target="_blank"}.
+The initial theme based on which this website is build on is created by [Gabriel Alcaras](https://gaalcaras.com/en/){:target="_blank"}. [Lehner](https://lukaslehner.github.io){:target="_blank"} have implemented a number of adjustments to improve the look and layout. 
 
-Feel free to reach out if you are interested in my research: \
-E-mail: [lukas.lehner@spi.ox.ac.uk](mailto:lukas.lehner@spi.ox.ac.uk) \
-Twitter: [@lukaslehner_](https://twitter.com/LukasLehner_){:target="_blank"}
+Feel free to reach out if you have queries: \
+E-mail: [mohsin.hossain@bracu.ac.bd](mailto:mohsin.hossain@bracu.ac.bd) \
+Twitter: [@mohsin_dds](https://twitter.com/mohsin_dds){:target="_blank"}
 
-**Department of Social Policy and Intervention** \
-University of Oxford \
-Barnett House \
-32 Wellington Square \
-Oxford, OX1 2ER \
-United Kingdom 
-
-
-**Institute for New Economic Thinking at the Oxford Martin School** \
-University of Oxford \
-Manor Road Building \
-Manor Road \
-Oxford, OX1 3UQ \
-United Kingdom
+**BRAC Institute of Governance and Development (BIGD)** \
+Brac University \
+SK Center \
+TB Gate Mohakhali \
+ Dhaka 1212 \
+ Bangladesh
