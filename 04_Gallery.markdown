@@ -11,8 +11,6 @@ permalink: /gallery/
 
 
 - **The 12th South Asia Economic Policy Network Conference on Green Growth in South Asia** \
-
-
  [Ttile](url){:target="_blank"}.
 
 
