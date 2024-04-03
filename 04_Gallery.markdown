@@ -25,6 +25,7 @@ permalink: /gallery/
 <p style="text-align: center; font-size: 12px; color: blue;">BIGD Researchers of Environment and Climate Change Cluster </p>
   </details>
 
+<p> </p>
 [Back to top](#top){: .button}
 
 <!--
