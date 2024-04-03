@@ -6,9 +6,9 @@ permalink: /research/
 ---
 <a name="top"></a>
 ## Research & Projects
-I am interested in exploring Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration.
 <hr style="border:.25px solid grey">
-
+I am interested in exploring Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration.
+<p></p>
 ### Ongoing
 ---
 1) **[Enhancing Safe Drinking Water Security and Climate Resilience Through Rainwater Harvesting](https://bigd.bracu.ac.bd/study/enhancing-safe-drinking-water-security-and-climate-resilience-through-rainwater-harvesting/){:target="_blank"}**
