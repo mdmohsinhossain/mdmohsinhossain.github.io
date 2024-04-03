@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: Research & Projects
 menu: main
 permalink: /research/
 ---
 <a name="top"></a>
-## Research
+## Research & Projects
 I am interested in exploring Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration.
 <hr style="border:.25px solid grey">
 
