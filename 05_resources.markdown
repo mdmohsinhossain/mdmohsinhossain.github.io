@@ -23,7 +23,7 @@ Here, I will compile a list of helpful websites covering topics such as learning
 
 <div align="right">
 <table><td>
-<a href="#top">👆 Scroll to top</a>{: .button}
+[👆 Scroll to top](#top){: .button}
 </td></table>
 </div>
 [👆 Scroll to top](#top){: .button}
