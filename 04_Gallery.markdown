@@ -26,7 +26,12 @@ permalink: /gallery/
   </details>
 
 <p> </p>
-[Back to top](#top){: .button}
+<div align="right">
+<table><td>
+<a href="#top">👆 Scroll to top</a>{: .button}
+</td></table>
+</div>
+[👆 Scroll to top](#top){: .button}
 
 <!--
 - **Course Name** \

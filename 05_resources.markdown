@@ -21,4 +21,9 @@ Here, I will compile a list of helpful websites covering topics such as learning
 <hr style="border:.25px solid grey">
  [Ttile](url){:target="_blank"}.
 
-[Back to top](#top){: .button}
+<div align="right">
+<table><td>
+<a href="#top">👆 Scroll to top</a>{: .button}
+</td></table>
+</div>
+[👆 Scroll to top](#top){: .button}

@@ -41,7 +41,12 @@ Provides an understanding of the key challenges and pathways to sustainable deve
 
 - **English for Journalism** by the American English E-Teacher Program on Canvas Network. [Certificate earned on Oct 5, 2020.]( https://aee-teacher.badgr.com/public/assertions/GVmkXW_qRluBA3FelnZXwQ){:target="_blank"}
 
-[Back to top](#top){: .button}
+<div align="right">
+<table><td>
+<a href="#top">👆 Scroll to top</a>{: .button}
+</td></table>
+</div>
+[👆 Scroll to top](#top){: .button}
 
 <!--
 - **Course Name** \
