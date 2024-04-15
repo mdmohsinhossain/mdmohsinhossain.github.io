@@ -26,11 +26,7 @@ permalink: /gallery/
   </details>
 
 <p> </p>
-<div align="right">
-<table><td>
-<a href="#top">👆 Scroll to top</a>{: .button}
-</td></table>
-</div>
+
 [👆 Scroll to top](#top){: .button}
 
 <!--

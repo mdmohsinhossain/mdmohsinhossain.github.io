@@ -56,13 +56,9 @@ The study is relevant to SDG 8 (decent work and economic growth) and SDG 16 (cli
 - [Presented the research findings](https://thedocs.worldbank.org/en/doc/43cd656813be0d42958698b6f2699ada-0310022023/related/Md-Mohsin-Bricks-to-Blocks.pdf){:target="_blank"} at [The 12th South Asia Economic Policy Network Conference on Green Growth in South Asia](https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3:~:text=Paper%20VI%3A-,bricks%20to%20blocks,-%3A%20An%20exploratory%20study){:target="_blank"} - [(Archive)](https://web.archive.org/web/20240205150527/https://www.worldbank.org/en/events/2023/10/30/the-12th-south-asia-economic-policy-network-conference-on-green-growth-in-south-asia#3){:target="_blank"}
 
 
-<div align="right">
-<table><td>
-<a href="#top">👆 Scroll to top</a>{: .button}
-</td></table>
-</div>
-[👆 Scroll to top](#top){: .button}
+<p> </p>
 
+[👆 Scroll to top](#top){: .button}
 
 <!--
 *Section name* 
