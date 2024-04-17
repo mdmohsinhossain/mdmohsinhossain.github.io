@@ -12,15 +12,15 @@ Here, I will compile a list of helpful websites covering topics such as learning
 
 ### Stata
 <hr style="border:.25px solid grey">
-- [Stata Website](https://www.stata.com/){:target="_blank"}.
+- [Introduction to Stata basics
+](https://www.stata.com/links/stata-basics/){:target="_blank"}.
 - [Stata Journal](https://www.stata-journal.com/){:target="_blank"}.
 - [Stata Blog](https://blog.stata.com/){:target="_blank"}.
 - [UCLA Statistical Consulting Group](https://stats.idre.ucla.edu/stata/){:target="_blank"}.
-- [Princeton University Data and Statistical Services](https://data.princeton.edu/stata){:target="_blank"}.
+- [Princeton University Data and Statistical Services](https://www.princeton.edu/~otorres/Stata/){:target="_blank"}.
 - [Stack Overflow - Stata Tag](https://stackoverflow.com/questions/tagged/stata){:target="_blank"}.
 - [Statalist](https://www.statalist.org/){:target="_blank"}.
 - [StataCorp YouTube Channel](https://www.youtube.com/user/statacorp){:target="_blank"}.
-- [Nick Cox's Stata Blog](https://njcstata.blogspot.com/){:target="_blank"}.
 
 ### R
 <hr style="border:.25px solid grey">
