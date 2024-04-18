@@ -21,6 +21,8 @@ permalink: /gallery/
 
 ## Workshop and Conference Participation
 
+<hr style="border:.25px solid grey">
+
   <details>
   <summary><kbd>Disemmination Event of Environmental and Economic Impacts of Agrivoltaics</kbd></summary>
     <img src='/assets/gallery/EnvCC Cluster BIGD 1.jpg' alt='BIGD Researchers of Environment and Climate Change Cluster' width=770px height=430px align="center" />
