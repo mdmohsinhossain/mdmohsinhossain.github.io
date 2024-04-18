@@ -38,7 +38,8 @@ Here, I will compile a list of helpful websites covering topics such as learning
 - [CTAN (Comprehensive TeX Archive Network)](https://ctan.org/){:target="_blank"}.
 - [The Not So Short Introduction to LaTeX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf){:target="_blank"}.
 - [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html){:target="_blank"}.
-- [The Comprehensive LaTeX Symbol List](https://www.uamerica.edu.co/wp-content/documentos/soporte_tic/simbolos%20matem%C3%A1tico%20latex.pdf){:target="_blank"}.
+- [The Comprehensive LaTeX Symbol List 1](https://www.uamerica.edu.co/wp-content/documentos/soporte_tic/simbolos%20matem%C3%A1tico%20latex.pdf){:target="_blank"}.
+- [The Comprehensive LaTeX Symbol List 2](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf){:target="_blank"}.
 
 <p> </p>
 
