@@ -14,7 +14,9 @@ I have completed both my bachelor's and master's degrees in [Development Studie
 
 Before this role, I was a [Trainee Research Associate](https://archive.ph/SlMAC){:target="_blank"} at BIGD, Brac University, as part of the [Young Researchers' Fellowship program](https://sites.google.com/bracu.ac.bd/bigdyrfp/home){:target="_blank"} in 2022.  
 
-My areas of interest include exploring Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration. Additionally, I am keen on acquiring skills related to fact-checking and promoting digital literacy. 😇
+My areas of interest include exploring Public Policy and Politics, Sustainable Rural Livelihoods, the Impact of Climate Change on Livelihood and Poverty, and Migration. Additionally, I am keen on acquiring skills related to fact-checking and promoting digital literacy.
+
+I like listening to music, watching movies and playing football. 😇
 
 <p> </p>
 
