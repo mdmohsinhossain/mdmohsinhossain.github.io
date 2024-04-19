@@ -12,7 +12,7 @@ Before this, I was a [Trainee Research Associate](https://archive.ph/SlMAC){:ta
 
 My research interest is on the critical intersection of public policy, sustainable livelihoods, and the impact of climate change. I'm passionate about generating data-driven insights that inform effective solutions to these complex challenges.
 
-Recognizing the growing threat of misinformation in the age of mass information, I'm trying to acquire skills in fact-checking to promote digital literacy. It's crucial to empower individuals to navigate online information effectively, mitigating the risks of scams, fraud, and violence fueled by fake news and rumors.
+In my spare time, I try to learn and explore things related to fact-checking tools. Recognizing the growing threat of misinformation in the age of mass information, I am also interested in promoting digital literacy. It's crucial to empower individuals to navigate online information effectively, mitigating the risks of scams, fraud, and violence fueled by fake news and rumors.
 
 <p> </p>
 
