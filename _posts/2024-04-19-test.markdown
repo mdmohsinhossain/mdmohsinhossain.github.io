@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "This is test post"
+date:   2024-04-19
+categories: jekyll update
+---
+
+Hi this is to write test post in the github academic page
