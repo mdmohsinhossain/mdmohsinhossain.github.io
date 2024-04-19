@@ -5,8 +5,7 @@
 layout: about
 title: Md. Mohsin Hossain
 ---
-<a name="top"></a> 
-I'm [Mohsin](https://ipa-reader.xyz/?text=mohsin&voice=Ewa){:target="_blank"}, a Research Associate at the [BRAC Institute of Governance and Development (BIGD)](https://bigd.bracu.ac.bd/staffprofile/md-mohsin-hossain/){:target="_blank"},BRAC University, working in the Environment and Climate Change Cluster.
+<a name="top"></a> I am working as a Research Associate at the [BRAC Institute of Governance and Development (BIGD)](https://bigd.bracu.ac.bd/staffprofile/md-mohsin-hossain/){:target="_blank"},BRAC University, working in the Environment and Climate Change Cluster.
 
 I hold both bachelor's and master's degrees in [Development Studies](https://www.du.ac.bd/body/DVS){:target="_blank"}s from the University of Dhaka, Bangladesh.
 Before this, I was a [Trainee Research Associate](https://archive.ph/SlMAC){:target="_blank"} at BIGD, Brac University, as part of the [Young Researchers' Fellowship program](https://sites.google.com/bracu.ac.bd/bigdyrfp/home){:target="_blank"} in 2022.
@@ -18,3 +17,8 @@ Recognizing the growing threat of misinformation in the age of mass information,
 <p> </p>
 
 [👆 Scroll to top](#top){: .button} 
+
+
+
+<!-- [Mohsin](https://ipa-reader.xyz/?text=mohsin&voice=Ewa){:target="_blank"} 
+-->
