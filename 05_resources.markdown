@@ -18,7 +18,7 @@ Here, I will compile a list of helpful websites covering topics such as learning
 - [Coding for RCT evaluations](https://www.povertyactionlab.org/resource/coding-resources-randomized-evaluations){:target="_blank"}
 - [DIME Analytics Coding guide](https://worldbank.github.io/dime-data-handbook/coding.html){:target="_blank"}
 - [Data Science resources](https://www.visualizecuriosity.com/wiki-pages/data-science){:target="_blank"}
-- [Data science for economists Regression analysis in R by Professor Grant McDermott](https://github.com/uo-ec607/lectures){:target="_blank"} and
+- [Data science for economists Regression analysis in R by Professor Grant McDermott](https://github.com/uo-ec607/lectures){:target="_blank"}
 - [IFRI Data Cleaning guide](https://www.ifpri.org/publication/guide-data-cleaning-using-stata){:target="_blank"}
 - [IPA Data cleaning guide](https://povertyaction.github.io/guides/cleaning/readme/){:target="_blank"}
 - [IPA Missing value guide](https://povertyaction.github.io/guides/cleaning/variablemanagement/missingvalues/){:target="_blank"}
