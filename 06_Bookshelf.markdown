@@ -5,7 +5,7 @@ menu: main
 permalink: /bookshelf/
 ---
 <a name="top"></a>
-## Bookshelf
+## Bookshelf (Updating)
 <hr style="border:.25px solid grey">
 Here I will list the fiction and nonfiction books I have read and liked. This list will include books written in English and Bengali. 📖
 <p></p>
@@ -26,33 +26,33 @@ Here I will list the fiction and nonfiction books I have read and liked. This li
 
 <details>
   <summary><kbd>Bangla</kbd></summary>
-- 1) Test 1
-</br>
-- 2) Test 2
-</br>
-- 3) Test 3
+<ol>
+  <li>Test 1</li>
+  <li>Test 2</li>
+  <li>Test 3</li>
+</ol>
 </details>
 
 ### Non-Fiction
 ---
 <details>
   <summary><kbd>English</kbd></summary>
-- 1) Test 1
-</br>
-- 2) Test 2
-</br>
-- 3) Test 3
+<ol>
+  <li>Test 1</li>
+  <li>Test 2</li>
+  <li>Test 3</li>
+</ol>
 </details>
 
 <p> </p>
 
 <details>
   <summary><kbd>Bangla</kbd></summary>
-- 1) Test 1
-</br>
-- 2) Test 2
-</br>
-- 3) Test 3
+<ol>
+  <li>Test 1</li>
+  <li>Test 2</li>
+  <li>Test 3</li>
+</ol>
 </details>
 
 <p> </p>
