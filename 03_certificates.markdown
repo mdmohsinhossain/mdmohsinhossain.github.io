@@ -33,9 +33,9 @@ Provides an understanding of the key challenges and pathways to sustainable deve
 
 - **Become a Journalist: Report the News!** by Michigan State University on Coursera. [Certificate earned on September 8, 2020.](https://coursera.org/verify/specialization/BDCJDL24YX5G){:target="_blank"}
 
-- **Communication and Techniques: Online Training and Digital Rights/Safety, Media Laws and Media Ethics** by Article19 and DW Akademie on banglatutorial-media.org [Certificate](Mohsin_Article 19 - English.pdf).
+- **Communication and Techniques: Online Training and Digital Rights/Safety, Media Laws and Media Ethics** by Article19 and DW Akademie on banglatutorial-media.org [Certificate](assets/certificates/Mohsin_Article 19 - English.pdf).
 
-- **Investigative Journalism** by Fojo Media Institute, Linnaeus University, and MRDI, [Certificate earned on December 8, 2021](Mohsin_IJ Certificate of Completion.pdf).
+- **Investigative Journalism** by Fojo Media Institute, Linnaeus University, and MRDI, [Certificate earned on December 8, 2021](assets/certificates/Mohsin_IJ Certificate of Completion.pdf).
 
 - **The Online Training: Introduction to Digital Journalism** by Reuters. [Certificate earned on May 28, 2021.]( https://reutersdigitaljournalism.com/course_completed_certificate/30042.html?l=en){:target="_blank"}
 
