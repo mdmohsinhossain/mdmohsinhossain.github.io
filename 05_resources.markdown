@@ -8,7 +8,6 @@ permalink: /resources/
 ## Resources
 Here, I will compile a list of helpful websites covering topics such as learning STATA, R, LaTeX, economics, econometrics, and other resources pertinent to research and productivity. 🖥️
 <hr style="border:.25px solid grey">
-
 ### Data Analysis and Econometrics
 <hr style="border:.25px solid grey">
 - [Best Practices When Writing Code by Dr Daniel M. Sullivan](https://aeturrell.github.io/coding-for-economists/intro.html){:target="_blank"}
@@ -27,8 +26,6 @@ Here, I will compile a list of helpful websites covering topics such as learning
 - [Professor Raj Chetty and Professor Greg Bruich "Big Data Course"](https://opportunityinsights.org/course/){:target="_blank"}
 - [Professor Ben Elsner's Causal Inference Course.](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H){:target="_blank"}
 - [Tutorial on working with Survey](https://wwwn.cdc.gov/nchs/nhanes/tutorials/default.aspx){:target="_blank"}
-
-
 ### Latex
 <hr style="border:.25px solid grey">
 - [CTAN (Comprehensive TeX Archive Network)](https://ctan.org/){:target="_blank"}
@@ -43,7 +40,6 @@ Here, I will compile a list of helpful websites covering topics such as learning
 ### Python
 <hr style="border:.25px solid grey">
 -->
-
 ### R
 <hr style="border:.25px solid grey">
 - [Animated plot in R](https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/#:~:text=gganimate%20is%20an%20extension%20of,want%20your%20data%20to%20change){:target="_blank"}
@@ -59,8 +55,6 @@ Here, I will compile a list of helpful websites covering topics such as learning
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/gp/product/1119002257/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=storytellingwithdata-20&creative=9325&linkCode=as2&creativeASIN=1119002257&linkId=c9a5d9689e0665c8098acb1bd01b51e1){:target="_blank"}
 - [Storytelling with Data: Let's Practice!](https://www.amazon.com/gp/product/1119621496/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=storytellingwithdata-20&creative=9325&linkCode=as2&creativeASIN=1119621496&linkId=c74bc50a287b2986edae7e3b95f9f5f4){:target="_blank"}
 - [Telling Stories with Data by Rohan Alexander (R)](https://www.tellingstorieswithdata.com/){:target="_blank"}
-
-
 ### Stata
 <hr style="border:.25px solid grey">
 - [Introduction to Stata basics](https://www.stata.com/links/stata-basics/){:target="_blank"}
@@ -80,7 +74,6 @@ Here, I will compile a list of helpful websites covering topics such as learning
 - [UCLA Institute for Digital Research and Education](https://stats.idre.ucla.edu/stata/){:target="_blank"}
 - [UCLA Materials](https://stats.oarc.ucla.edu/stata/modules/){:target="_blank"}
 - [UCLA Statistical Consulting Group](https://stats.idre.ucla.edu/stata/){:target="_blank"}
-
 
 <p> </p>
 
