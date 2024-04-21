@@ -9,9 +9,8 @@ permalink: /resources/
 # Resources
 ---
 <center><b style="color:#006400"><a href="https://quran.com/55/60" target="_blank">"Is the reward for good (anything) but good?"</a></b></center>
-
-
-Motivated by the above verse, the following comprehensive list of helpful websites encompasses a diverse range of resources relevant to higher studies, research, and productivity, particularly in the fields of economics, policy, and professional development. Most of these resources were curated with care by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, covering pre-doctoral opportunities, research assistant positions, guides for students, and invaluable advice on topics such as fieldwork, data analysis, and transitioning between software tools like Stata and R. Whether you're navigating the complexities of academia or seeking practical insights for career advancement, this collection offers a wealth of information to support your journey. Keep us in your prayers, share with others and kindly consider acknowledging the source if you find this compilation helpful. 🙏
+---
+Motivated by the above verse, the following comprehensive list of helpful websites encompasses a diverse range of resources relevant to higher studies, research, and productivity, particularly in the fields of economics, policy, and professional development. Most of these resources were curated with care by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, covering pre-doctoral opportunities, research assistant positions, guides for students, and invaluable advice on topics such as fieldwork, data analysis, and transitioning between software tools like Stata and R. Whether you're navigating the complexities of academia or seeking practical insights for career advancement, this collection offers a wealth of information to support your journey. Keep us in your prayers, share with others and kindly consider acknowledging the source if you find this compilation helpful. If you find any broken links or have resources that you would like to see added to this list, please let us know via email at <a href="mailto:pappu97cu@gmail.com">here</a> or <a href="mailto:mohsin.hossain@bracu.ac.bd">here</a>.🙏
 
 
 ### Data Analysis and Econometrics
