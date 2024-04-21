@@ -5,8 +5,13 @@ menu: main
 permalink: /resources/
 ---
 <a name="top"></a>
+
 # Resources
-The following comprehensive list of helpful websites encompasses a diverse range of resources relevant to higher studies, research, and productivity, particularly in the fields of economics, policy, and professional development. Most of the resources were curated with care by [Md.Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"} , these resources cover pre-doctoral opportunities, research assistant positions, guides for students, and invaluable advice on topics such as fieldwork, data analysis, and transitioning between software tools like Stata and R. Whether you're navigating the complexities of academia or seeking practical insights for career advancement, this collection offers a wealth of information to support your journey. Pray for us if you find this helpful and give credit where it's due. 🙏
+
+<p align="center"><b style="color:#006400">[''Is the reward for good (anything) but good? ''هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ ٦٠](https://quran.com/55/60){:target="_blank"}</b></p>
+
+Motivated by the above verse, the following comprehensive list of helpful websites encompasses a diverse range of resources relevant to higher studies, research, and productivity, particularly in the fields of economics, policy, and professional development. Most of these resources were curated with care by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, covering pre-doctoral opportunities, research assistant positions, guides for students, and invaluable advice on topics such as fieldwork, data analysis, and transitioning between software tools like Stata and R. Whether you're navigating the complexities of academia or seeking practical insights for career advancement, this collection offers a wealth of information to support your journey. Keep us in your prayers, share with others and kindly consider acknowledging the source if you find this compilation helpful. 🙏
+
 
 ### Data Analysis and Econometrics
 ---
