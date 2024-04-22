@@ -68,6 +68,22 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 <p></p>
 
 <details>
+<summary><b>Data Sources</b></summary>
+<ul>
+  <li><a href="https://guides.lib.vt.edu/subject-guides/econ/data-sources" target="_blank">Virginia Tech Data Sources</a></li>
+  <li><a href="https://krannert.purdue.edu/centers/pcee/economics-help/economic-data-sources.php" target="_blank">Purdue University Data Sources</a></li>
+  <li><a href="https://data.unicef.org/resources/resource-type/datasets/" target="_blank">UNICEF Datasets</a></li>
+  <li><a href="https://mics.unicef.org/" target="_blank">MICS Datasets</a></li>
+  <li><a href="https://dhsprogram.com/publications/publication-FR195-DHS-Final-Reports.cfm" target="_blank">DHS Datasets</a></li>
+  <li><a href="https://microdata.worldbank.org/index.php/home" target="_blank">World Bank Micro Data</a></li>
+  <li><a href="https://www.gapminder.org/data/" target="_blank">Gapminder data</a></li>
+  <li><a href="https://dataverse.harvard.edu/dataverse/harvard" target="_blank">Harvard Dataverse</a></li>
+  <li><a href="https://sites.google.com/site/pietrobiroli/resources#h.fgyr6yxvh26" target="_blank">Datasets collection by Pietro Biroli</a></li>
+</ul>
+
+<p></p>
+
+<details>
 <summary><b>Stata</b></summary>
 <ul>
   <li><a href="https://www.stata.com/links/stata-basics/" target="_blank">Introduction to Stata basics</a></li>
