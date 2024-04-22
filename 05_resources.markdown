@@ -8,13 +8,21 @@ permalink: /resources/
 
 # Resources
 ---
+<!--
+It's possible to use markdown to embed image in spoiler but there must be a line break for some reason.
+
+<details>
+  <summary>Screenshot</summary>
+
+  ![img](https://fakeimg.pl/200)
+</details>
+-->
 <center><b style="color:#006400"><a href="https://quran.com/55/60" target="_blank">"Is the reward for good (anything) but good?"</a></b></center>
 ---
 Motivated by the above verse, the following comprehensive list of helpful websites encompasses a diverse range of resources relevant to higher studies, research, and productivity, particularly in the fields of economics, policy, and professional development. Most of these resources were curated with care by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, covering pre-doctoral opportunities, research assistant positions, guides for students, and invaluable advice on topics such as fieldwork, data analysis, and transitioning between software tools like Stata and R. Whether you're navigating the complexities of academia or seeking practical insights for career advancement, this collection offers a wealth of information to support your journey. Keep us in your prayers, share with others and kindly consider acknowledging the source if you find this compilation helpful. If you find any broken links or have resources that you would like to see added to this list, please let us know via email at <a href="mailto:pappu97cu@gmail.com">here</a> or <a href="mailto:mohsin.hossain@bracu.ac.bd">here</a>.🙏
 
-
-### Data Analysis and Econometrics
----
+<details>
+<summary><b>Data Analysis and Econometrics</b></summary>
 - [Best Practices When Writing Code by Dr Daniel M. Sullivan](https://aeturrell.github.io/coding-for-economists/intro.html){:target="_blank"}
 - [Bellemare blog on Missing values](http://marcfbellemare.com/wordpress/11086){:target="_blank"}
 - [CEO Microdata style guide](https://zenodo.org/record/5383489#.Yqdj66hBy00){:target="_blank"}
@@ -31,7 +39,7 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 - [Professor Raj Chetty and Professor Greg Bruich "Big Data Course"](https://opportunityinsights.org/course/){:target="_blank"}
 - [Professor Ben Elsner's Causal Inference Course.](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H){:target="_blank"}
 - [Tutorial on working with Survey](https://wwwn.cdc.gov/nchs/nhanes/tutorials/default.aspx){:target="_blank"}
-
+</details>
 ### ECONOMETRICS AND STATISTICS
 ---
 - [Non-traditional Diff-in-Diff by Kyle Butts](https://kylebutts.com/blog/Non-traditional-Diff-in-Diff/){:target="_blank"}
