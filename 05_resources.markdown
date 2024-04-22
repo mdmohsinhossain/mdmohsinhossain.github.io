@@ -7,9 +7,13 @@ permalink: /resources/
 <a name="top"></a>
 ## Resources
 ---
-<center><b style="color:#006400"><a href="https://quran.com/55/60" target="_blank">"Is the reward for good (anything) but good?"</a></b></center>
+<center>
+<b style="color:#006400">
+<a href="https://quran.com/55/60" target="_blank">"And what is the reward of goodness, but goodness." (Quran 55:60)</a>
+</b>
+</center>
 <p></p>
-This comprehensive list of websites offers valuable resources for higher studies, research, and productivity in economics, policy, and professional development. Curated by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, it includes sections on data analysis, pre-doctoral opportunities, student guides, and software advice. Please share and acknowledge the source if you find this helpful. For broken links or suggestions or resources that you would like to see added to this list, please let us know via email at <a href="mailto:pappu97cu@gmail.com">here</a> or <a href="mailto:mohsin.hossain@bracu.ac.bd">here</a>.🙏email [emails here]. 🙏
+Motivated by the above verse, this comprehensive list of websites offers valuable resources for higher studies, research, and productivity in economics, policy, and professional development. Curated by [Md. Johirul Islam, RA, BIGD](https://sites.google.com/view/mdjohirulislam/home){:target="_blank"}, it includes sections on data analysis, pre-doctoral opportunities, student guides, and software advice. Please share and acknowledge the source if you find this helpful. For broken links or suggestions or resources that you would like to see added to this list, please let us know via email at <a href="mailto:pappu97cu@gmail.com">here</a> or <a href="mailto:mohsin.hossain@bracu.ac.bd">here</a>. 🙏
 <p></p>
 <details>
 <summary><b>Data Analysis and Econometrics</b></summary>
