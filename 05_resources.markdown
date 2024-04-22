@@ -23,6 +23,7 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 
 <details>
 <summary><b>Data Analysis and Econometrics</b></summary>
+  
 - [Best Practices When Writing Code by Dr Daniel M. Sullivan](https://aeturrell.github.io/coding-for-economists/intro.html){:target="_blank"}
 - [Bellemare blog on Missing values](http://marcfbellemare.com/wordpress/11086){:target="_blank"}
 - [CEO Microdata style guide](https://zenodo.org/record/5383489#.Yqdj66hBy00){:target="_blank"}
@@ -39,6 +40,7 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 - [Professor Raj Chetty and Professor Greg Bruich "Big Data Course"](https://opportunityinsights.org/course/){:target="_blank"}
 - [Professor Ben Elsner's Causal Inference Course.](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H){:target="_blank"}
 - [Tutorial on working with Survey](https://wwwn.cdc.gov/nchs/nhanes/tutorials/default.aspx){:target="_blank"}
+
 </details>
 ### ECONOMETRICS AND STATISTICS
 ---
