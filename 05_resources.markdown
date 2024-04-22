@@ -80,6 +80,7 @@ Motivated by the above verse, the following comprehensive list of helpful websit
   <li><a href="https://dataverse.harvard.edu/dataverse/harvard" target="_blank">Harvard Dataverse</a></li>
   <li><a href="https://sites.google.com/site/pietrobiroli/resources#h.fgyr6yxvh26" target="_blank">Datasets collection by Pietro Biroli</a></li>
 </ul>
+</details>
 
 <p></p>
 
