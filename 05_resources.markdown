@@ -33,6 +33,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Econometrics and Statistics</b></summary>
 <ul>
@@ -48,6 +50,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Latex</b></summary>
 <ul>
@@ -60,6 +64,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
   <li><a href="https://tobi.oetiker.ch/lshort/lshort.pdf" target="_blank">The Not So Short Introduction to LaTeX 2ε</a></li>
 </ul>
 </details>
+
+<p></p>
 
 <details>
 <summary><b>Stata</b></summary>
@@ -84,6 +90,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Stata to R</b></summary>
 <ul>
@@ -93,6 +101,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
   <li><a href="https://fsolt.org/blog/posts/switch-to-r/" target="_blank">How to Switch Your Workflow from Stata to R, One Bit at a Time</a></li>
 </ul>
 </details>
+
+<p></p>
 
 <details>
 <summary><b>R</b></summary>
@@ -113,11 +123,15 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <!--
 <details>
 <summary><b>Python</b></summary>
 </details>  
 -->
+
+<p></p>
 
 <details>
 <summary><b>Pre-Doc and RA</b></summary>
@@ -147,6 +161,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>PhD In Economics</b></summary>
 <ul>
@@ -156,6 +172,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
   <li><a href="https://chrisblattman.com/about/contact/gradschool/" target="_blank">FAQs on PhD applicants by Chris Blattman</a></li>
 </ul>
 </details>
+
+<p></p>
 
 <details>
 <summary><b>Advice: Development by Chris Blattman</b></summary>
@@ -175,6 +193,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
   <li><a href="https://chrisblattman.com/2008/07/01/working-in-a-developing-country/" target="_blank">Working in a developing country</a></li>
 </ul>
 </details>
+
+<p></p>
 
 <details>
 <summary><b>Advice: Professional by Chris Blattman</b></summary>
@@ -203,6 +223,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Advice for Students by Mankiw</b></summary>
 <ul>
@@ -229,7 +251,11 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <!--## RESEARCH RESOURCES-->
+
+<p></p>
 
 <details>
 <summary><b>Undergraduate Research</b></summary>
@@ -246,6 +272,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Choosing Research Topic</b></summary>
 <ul>
@@ -259,6 +287,8 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Literature Review</b></summary>
 <ul>
@@ -268,11 +298,14 @@ Motivated by the above verse, the following comprehensive list of helpful websit
 </ul>
 </details>
 
+<p></p>
+
 <details>
 <summary><b>Teaching Resources on RCT</b></summary>
 <ul>
   <li><a href="https://www.povertyactionlab.org/resource/teaching-resources-randomized-evaluations" target="_blank">Teaching resources on randomized evaluations</a></li>
 </ul>
+</details> 
 <p></p>
 
 [👆 Scroll to top](#top){: .button}
