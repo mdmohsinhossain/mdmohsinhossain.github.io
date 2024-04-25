@@ -9,7 +9,11 @@ permalink: /bookshelf/
 <hr style="border:.25px solid grey">
 Here I will list the fiction and nonfiction books I have read and liked. This list will include books written in English and Bengali. 📖
 <p></p>
-
+<!--
+<object data="assets/cv/mdmohsinhossain-cv.pdf" width="100%" height="500px" type='application/pdf'>
+<p>It appears your browser does not support the required PDF plug-in. Feel free to <a href="cohen_cv.pdf">download the PDF</a> instead.</p>
+</object>
+-->
 ### Fiction
 ---
 
