@@ -20,9 +20,9 @@ Here I will list the fiction and nonfiction books I have read and liked. This li
 <details>
   <summary><kbd>English</kbd></summary>
 <ol>
-  <li>Test 1</li>
-  <li>Test 2</li>
-  <li>Test 3</li>
+  <li><a href="https://www.goodreads.com/book/show/77203.The_Kite_Runner">The Kite Runner by Khaled Hosseini</a></li>
+  <li><a href="https://www.goodreads.com/book/show/61439040-1984">Nineteen Eighty-Four by George Orwell</a></li>
+  <li><a href="https://www.goodreads.com/book/show/5472.Animal_Farm_1984">Animal Farm by George Orwell</a></li>
 </ol>
 </details>
 
