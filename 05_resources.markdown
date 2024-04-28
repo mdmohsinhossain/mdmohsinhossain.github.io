@@ -19,22 +19,22 @@ Motivated by the above verse, this comprehensive list of websites offers valuabl
 <details>
 <summary><b>Data Analysis and Econometrics</b></summary>
 <ul>
-  <li><a href="https://aeturrell.github.io/coding-for-economists/intro.html">Best Practices When Writing Code by Dr Daniel M. Sullivan</a></li>
-  <li><a href="http://marcfbellemare.com/wordpress/11086">Bellemare blog on Missing values</a></li>
-  <li><a href="https://zenodo.org/record/5383489#.Yqdj66hBy00">CEO Microdata style guide</a></li>
-  <li><a href="https://aeturrell.github.io/coding-for-economists/intro.html">Coding for Economists by Professor Arthur Turrell</a></li>
-  <li><a href="https://www.povertyactionlab.org/resource/coding-resources-randomized-evaluations">Coding for RCT evaluations</a></li>
-  <li><a href="https://worldbank.github.io/dime-data-handbook/coding.html">DIME Analytics Coding guide</a></li>
-  <li><a href="https://www.visualizecuriosity.com/wiki-pages/data-science">Data Science resources</a></li>
-  <li><a href="https://github.com/uo-ec607/lectures">Data science for economists Regression analysis in R by Professor Grant McDermott</a></li>
-  <li><a href="https://www.ifpri.org/publication/guide-data-cleaning-using-stata">IFRI Data Cleaning guide</a></li>
-  <li><a href="https://povertyaction.github.io/guides/cleaning/readme/">IPA Data cleaning guide</a></li>
-  <li><a href="https://povertyaction.github.io/guides/cleaning/variablemanagement/missingvalues/">IPA Missing value guide</a></li>
-  <li><a href="https://povertyaction.github.io/guides/cleaning/readme/">Innovations for Poverty Action Coding Guide</a></li>
-  <li><a href="https://lost-stats.github.io/">Library of Statistical Techniques (LOST)</a></li>
-  <li><a href="https://opportunityinsights.org/course/">Professor Raj Chetty and Professor Greg Bruich "Big Data Course"</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H">Professor Ben Elsner's Causal Inference Course.</a></li>
-  <li><a href="https://wwwn.cdc.gov/nchs/nhanes/tutorials/default.aspx">Tutorial on working with Survey</a></li>
+  <li><a href="https://aeturrell.github.io/coding-for-economists/intro.html" target="_blank">Best Practices When Writing Code by Dr Daniel M. Sullivan</a></li>
+  <li><a href="http://marcfbellemare.com/wordpress/11086" target="_blank">Bellemare blog on Missing values</a></li>
+  <li><a href="https://zenodo.org/record/5383489#.Yqdj66hBy00" target="_blank">CEO Microdata style guide</a></li>
+  <li><a href="https://aeturrell.github.io/coding-for-economists/intro.html" target="_blank">Coding for Economists by Professor Arthur Turrell</a></li>
+  <li><a href="https://www.povertyactionlab.org/resource/coding-resources-randomized-evaluations" target="_blank">Coding for RCT evaluations</a></li>
+  <li><a href="https://worldbank.github.io/dime-data-handbook/coding.html"  target="_blank">DIME Analytics Coding guide</a></li>
+  <li><a href="https://www.visualizecuriosity.com/wiki-pages/data-science"  target="_blank">Data Science resources</a></li>
+  <li><a href="https://github.com/uo-ec607/lectures"  target="_blank">Data science for economists Regression analysis in R by Professor Grant McDermott</a></li>
+  <li><a href="https://www.ifpri.org/publication/guide-data-cleaning-using-stata"  target="_blank">IFRI Data Cleaning guide</a></li>
+  <li><a href="https://povertyaction.github.io/guides/cleaning/readme/"  target="_blank">IPA Data cleaning guide</a></li>
+  <li><a href="https://povertyaction.github.io/guides/cleaning/variablemanagement/missingvalues/" target="_blank>IPA Missing value guide</a></li>
+  <li><a href="https://povertyaction.github.io/guides/cleaning/readme/"  target="_blank">Innovations for Poverty Action Coding Guide</a></li>
+  <li><a href="https://lost-stats.github.io/"  target="_blank">Library of Statistical Techniques (LOST)</a></li>
+  <li><a href="https://opportunityinsights.org/course/"  target="_blank">Professor Raj Chetty and Professor Greg Bruich "Big Data Course"</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H" target="_blank">Professor Ben Elsner's Causal Inference Course.</a></li>
+  <li><a href="https://wwwn.cdc.gov/nchs/nhanes/tutorials/default.aspx"  target="_blank">Tutorial on working with Survey</a></li>
 </ul>
 </details>
 
