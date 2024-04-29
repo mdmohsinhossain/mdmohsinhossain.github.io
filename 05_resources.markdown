@@ -29,7 +29,7 @@ Motivated by the above verse, this comprehensive list of websites offers valuabl
   <li><a href="https://github.com/uo-ec607/lectures"  target="_blank">Data science for economists Regression analysis in R by Professor Grant McDermott</a></li>
   <li><a href="https://www.ifpri.org/publication/guide-data-cleaning-using-stata"  target="_blank">IFRI Data Cleaning guide</a></li>
   <li><a href="https://povertyaction.github.io/guides/cleaning/readme/"  target="_blank">IPA Data cleaning guide</a></li>
-  <li><a href="https://povertyaction.github.io/guides/cleaning/variablemanagement/missingvalues/" target="_blank>IPA Missing value guide</a></li>
+  <li><a href="https://povertyaction.github.io/guides/cleaning/variablemanagement/missingvalues" target="_blank">IPA Missing value guide</a></li>
   <li><a href="https://povertyaction.github.io/guides/cleaning/readme/"  target="_blank">Innovations for Poverty Action Coding Guide</a></li>
   <li><a href="https://lost-stats.github.io/"  target="_blank">Library of Statistical Techniques (LOST)</a></li>
   <li><a href="https://opportunityinsights.org/course/"  target="_blank">Professor Raj Chetty and Professor Greg Bruich "Big Data Course"</a></li>
