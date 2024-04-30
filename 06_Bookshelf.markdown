@@ -7,8 +7,7 @@ permalink: /bookshelf/
 <a name="top"></a>
 ## Bookshelf (Updating)
 <hr style="border:.25px solid grey">
-Here I will list the fiction and nonfiction books I have read and liked. This list will include books written in English and Bengali. 📖
-<p></p>
+Here, I will list the fiction and nonfiction books I have read and liked, as well as some that were recommended to me by my friends and colleagues. This list will include books written in English and Bengali. 📖<p></p>
 <!--
 <object data="assets/cv/mdmohsinhossain-cv.pdf" width="100%" height="500px" type='application/pdf'>
 <p>It appears your browser does not support the required PDF plug-in. Feel free to <a href="cohen_cv.pdf">download the PDF</a> instead.</p>
