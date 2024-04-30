@@ -22,7 +22,13 @@ Here I will list the fiction and nonfiction books I have read and liked. This li
 <ol>
   <li><a href="https://www.goodreads.com/book/show/77203.The_Kite_Runner" target="_blank">The Kite Runner by Khaled Hosseini</a></li>
   <li><a href="https://www.goodreads.com/book/show/61439040-1984" target="_blank">Nineteen Eighty-Four by George Orwell</a></li>
-  <li><a href="https://www.goodreads.com/book/show/5472.Animal_Farm_1984" target="_blank">Animal Farm by George Orwell</a></li>
+  <li><a href="https://www.goodreads.com/book/show/58696.David_Copperfield" target="_blank">David Copperfield by Charles Dickens</a></li>
+  <li><a href="https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn" target="_blank">The Adventures of Huckleberry Finn</a></li>
+  <li><a href="https://www.goodreads.com/book/show/49552.The_Stranger" target="_blank">The Stranger by Albert Camus</a></li>
+  <li><a href="https://www.goodreads.com/en/book/show/485894" target="_blank">The Metamorphosis by Franz Kafka</a></li>
+  <li><a href="https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being" target="_blank">The Unbearable Lightness of Being by Milan Kundera</a></li>
+  <li><a href="https://www.goodreads.com/en/book/show/8686068" target="_blank">The Devotion of Suspect X</a></li>
+
 </ol>
 </details>
 
@@ -56,9 +62,9 @@ Here I will list the fiction and nonfiction books I have read and liked. This li
 <details>
   <summary><kbd>English</kbd></summary>
 <ol>
-  <li>Test 1</li>
-  <li>Test 2</li>
-  <li>Test 3</li>
+  <li><a href="https://www.goodreads.com/book/show/40599527-my-seditious-heart" target="_blank">My Seditious Heart: Collected Nonfiction</a></li>
+  <li><a href="https://www.goodreads.com/book/show/11420104-walking-with-the-comrades" target="_blank">Walking With The Comrades</a></li>
+
 </ol>
 </details>
 
