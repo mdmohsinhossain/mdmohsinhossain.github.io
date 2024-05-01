@@ -36,6 +36,10 @@ nav_ext_links:
   - name: CV
     url: https://mdmohsinhossain.github.io/assets/cv/Md_Mohsin_Hossain_CV (May-2024).pdf
 
+nav_ext_links:
+  - name: Blog
+    url: https://mohsindu.blogspot.com/
+
 # Build settings
 # theme: academic
 remote_theme: gaalcaras/academic
