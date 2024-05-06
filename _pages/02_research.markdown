@@ -2,7 +2,7 @@
 layout: page
 title: Research & Projects
 menu: main
-permalink: /research/
+permalink: _pages/research/
 ---
 <a name="top"></a>
 ## Research & Projects
