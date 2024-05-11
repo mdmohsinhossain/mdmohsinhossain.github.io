@@ -32,9 +32,10 @@ author_display: true
 #googlescholar_link: https://scholar.google.com/citations?hl=en&user=
 uni_link: https://bigd.bracu.ac.bd/staffprofile/md-mohsin-hossain/
 
-nav_ext_links:
-  - name: CV
-    url: https://mdmohsinhossain.github.io/assets/cv/Md_Mohsin_Hossain_CV (May-2024).pdf
+#nav_ext_links:
+#  - name: CV
+#    url: https://mdmohsinhossain.github.io/assets/cv/Md_Mohsin_Hossain_CV (May-2024).pdf
+#    url: https://drive.google.com/file/d/1Rb208P1CYGvM1K97d9Abl27F5xsSMjG8/view?usp=sharing
 
 #nav_ext_links:
 #  - name: Blog
