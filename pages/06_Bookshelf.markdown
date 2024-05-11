@@ -76,9 +76,9 @@ Here, I will list the fiction and nonfiction books I have read and liked, as wel
 <details>
   <summary><kbd>Bangla</kbd></summary>
 <ol>
-  <li>Test 1</li>
-  <li>Test 2</li>
-  <li>Test 3</li>
+  <li><a href="https://xeroxtree.com/pdf/1971_vetore_baire.pdf" target="_blank">১৯৭১: ভেতরে বাইরে</a></li>
+  <li><a href="https://www.goodreads.com/bn/book/show/52147543" target="_blank">বাঙালির মিডিয়োক্রিটির সন্ধানে</a></li>
+  
 </ol>
 </details>
 
